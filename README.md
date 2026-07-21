@@ -134,8 +134,10 @@ research, cold-email sequencing, follow-up cadence planning, reply triage, and d
 calls — each built from dated 2025–26 sources and live-tested before shipping.
 
 This one is free, MIT, and standalone. It's a fair sample of how the rest are built: if
-you don't like this, don't buy those. The benchmark research behind the whole pack is
-published free at [cursedplum.substack.com](https://cursedplum.substack.com).
+you don't like this, don't buy those. The other four skills are in
+[Outreach Engine](https://cursedplum.gumroad.com/l/outreach-engine) on Gumroad. The
+benchmark research behind the whole pack is published free at
+[cursedplum.substack.com](https://cursedplum.substack.com).
 
 ## License
 
