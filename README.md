@@ -17,7 +17,7 @@ MIT licensed. Works in Claude Code, or by copy-paste into any Claude session.
 ```bash
 mkdir -p .claude/skills/reply-triage-drafter
 curl -o .claude/skills/reply-triage-drafter/SKILL.md \
-  https://raw.githubusercontent.com/<YOUR-USERNAME>/reply-triage-drafter/main/SKILL.md
+  https://raw.githubusercontent.com/cursedplum/claude-reply-triage/main/SKILL.md
 ```
 
 Claude Code picks it up automatically.
