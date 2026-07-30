@@ -17,7 +17,7 @@ MIT licensed. Works in Claude Code, or by copy-paste into any Claude session.
 ```bash
 mkdir -p .claude/skills/reply-triage-drafter
 curl -o .claude/skills/reply-triage-drafter/SKILL.md \
-  https://raw.githubusercontent.com/cursedplum/claude-reply-triage/main/SKILL.md
+  https://raw.githubusercontent.com/blessedplum/claude-reply-triage/main/SKILL.md
 ```
 
 Claude Code picks it up automatically.
@@ -129,14 +129,12 @@ sending at scale.
 
 ## Where this came from
 
-This is one of five skills from **Outreach Engine**, a paid pack covering prospect
+This is one of five skills from **Outreach Engine**, a pack covering prospect
 research, cold-email sequencing, follow-up cadence planning, reply triage, and discovery
 calls — each built from dated 2025–26 sources and live-tested before shipping.
 
-This one is free, MIT, and standalone. It's a fair sample of how the rest are built: if
-you don't like this, don't buy those. The other four skills are in
-[Outreach Engine](https://cursedplum.gumroad.com/l/outreach-engine) on Gumroad. The
-benchmark research behind the whole pack is published free at
+The pack was retired from sale in July 2026. This skill stays up — free, MIT, and
+standalone. The research behind the pack is still published free at
 [cursedplum.substack.com](https://cursedplum.substack.com).
 
 ## License
